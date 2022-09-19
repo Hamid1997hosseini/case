@@ -57,6 +57,7 @@ print ("Humidity is          :"  + " " + str(humidity))
 print ("Current wind speed   :"  + " " + str(wind))
 print ("")
 print ("hamid")
+print ("hamid2")
     
 
 
